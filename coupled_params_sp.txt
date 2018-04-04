@@ -1,0 +1,52 @@
+nrows:
+500
+ncols:
+500
+dx: meters
+10
+leftmost_elevation: meters
+0.
+rightmost_elevation: meters
+0.
+initial_slope: m/m
+0.0
+dt:years
+100.
+total_time:years
+200000.
+uplift_rate:m/yr
+0.
+incision_rate:m/yr
+0.
+K_sp: depends on m and n
+0.0001
+m_sp:
+0.5
+n_sp:
+1.
+threshold_stream_power:
+0.001
+rock_density:
+2.7
+sed_density:
+2.7
+kappa:
+0.0001
+S_crit:
+0.56
+linear_diffusivity:
+0.001
+moraine_width:m
+0.
+moraine_height:m
+0.
+number_of_outputs: number
+200
+valley_depth:m
+40.
+gw_coeff:
+1.
+all_dry:
+True
+fill_sink_with_water:
+True
